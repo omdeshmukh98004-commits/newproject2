@@ -11,7 +11,8 @@ public class srproject1 {
 	public void ValidateSrproject1() {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("https://www.srnawalespapad.co.in/contact-sr-nawales-papad/");
+		driver.get("https://www.srnawalespapad.co.in/contact-sr-nawales-apad/");
+		
 		
 	}
 
